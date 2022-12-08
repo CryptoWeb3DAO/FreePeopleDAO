@@ -68,6 +68,62 @@ Free People DAO
 Advantages
 
 The world's first D AO leader
+Lead community for web3.0
+Musk big guy heat kol
+Global hot spot engine hot currency
+Blockchain each big guy address hot positions
+Online more than 40 exchanges ok and Binance plus
+The most expensive meme meme currency in the next bull market
+
+The DAO Business System 
+
+NFT, playing cards
+Part of NFT poker display
+
+![image](https://user-images.githubusercontent.com/119835316/206417012-e4acb622-b8f4-48ae-bd1a-ca51d2238a7d.png)
+
+![image](https://user-images.githubusercontent.com/119835316/206417104-3c7cdd26-0874-4f37-a3c4-c25b4e857354.png)
+
+NFT poker play
+How to get
+Contribution of 1000people, unlimited contribution, from a multiple of 1000people (rebuild gives accumulated fragments)
+
+![截屏2022-12-08 18 00 37](https://user-images.githubusercontent.com/119835316/206418025-9ef3654e-63aa-4dac-99f8-bed50bd4e91e.png)
+
+
+NFT poker synthesis
+According to the number of fragments, the synthesized NFT cards are not the same
+![截屏2022-12-08 18 04 32](https://user-images.githubusercontent.com/119835316/206418796-6b4744b0-d5d0-4450-82dc-b326efdf62fb.png)
+
+NFT rights and interests
+
+1. Each type of NFT can open permanent coin mining, with different types of coin 
+    computing power
+2. Card characters in the ecological chain tour, can participate in the competition,
+    and win rewards
+3. Enjoy each type of official repurchase rights, and can be traded and sold at any time.
+4. Free City participants' rights, with NFT access.
+
+Gold Poker Card Set
+
+A collection of NFT cards 54 (different) can synthesize a gold card set (a set of physical gold cards and a NFT card), limited to 10.
+
+rights and interests
+![截屏2022-12-08 18 08 35](https://user-images.githubusercontent.com/119835316/206419489-3741f35c-ba31-4177-9efc-1a09fefbb7c7.png)
+
+The perpetual motion machine
+DAO member free order: from 1000 PEOPLE multiple times, 100% pure chain, fully allocated, open and transparent
+Always move
+machine-processed
+Movement 2 times out; permanent movement pool bottom, unlimited free return cast, no burns.
+![截屏2022-12-08 18 13 09](https://user-images.githubusercontent.com/119835316/206420521-6cfecada-76c3-411c-9576-16820f96e420.png)
+
+
+
+
+
+
+
 
 
 
