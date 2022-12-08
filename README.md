@@ -80,9 +80,8 @@ The DAO Business System
 NFT, playing cards
 Part of NFT poker display
 
-![image](https://user-images.githubusercontent.com/119835316/206417012-e4acb622-b8f4-48ae-bd1a-ca51d2238a7d.png)
+![截屏2022-12-08 19 58 34](https://user-images.githubusercontent.com/119835316/206441266-87522453-f4a2-40d0-8fca-62990bb49990.png)
 
-![image](https://user-images.githubusercontent.com/119835316/206417104-3c7cdd26-0874-4f37-a3c4-c25b4e857354.png)
 
 NFT poker play
 How to get
@@ -109,14 +108,19 @@ Gold Poker Card Set
 A collection of NFT cards 54 (different) can synthesize a gold card set (a set of physical gold cards and a NFT card), limited to 10.
 
 rights and interests
+
 ![截屏2022-12-08 18 08 35](https://user-images.githubusercontent.com/119835316/206419489-3741f35c-ba31-4177-9efc-1a09fefbb7c7.png)
+
 
 The perpetual motion machine
 DAO member free order: from 1000 PEOPLE multiple times, 100% pure chain, fully allocated, open and transparent
 Always move
 machine-processed
 Movement 2 times out; permanent movement pool bottom, unlimited free return cast, no burns.
+
 ![截屏2022-12-08 18 13 09](https://user-images.githubusercontent.com/119835316/206420521-6cfecada-76c3-411c-9576-16820f96e420.png)
+
+
 
 
 
