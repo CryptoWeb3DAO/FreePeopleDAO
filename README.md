@@ -1,7 +1,10 @@
 # FreePeopleDAO
 
 Brand new DAO ecological governance community in the Web 3.0 era
-![logo](https://user-images.githubusercontent.com/119835316/206371399-3c5dc836-0dc0-4b1a-8593-9fd54d399109.jpeg)
+
+![截屏2022-12-08 21 30 29](https://user-images.githubusercontent.com/119835316/206459194-650f2771-6af6-4561-a9f4-0c21f4d7df0d.png)
+
+
 logo inspiration：Goddess + Wealth + Freedom + Perfect Life
 
 The ConstitutionDAO was a decentralized self-government organization, formed by Alice Ma et al., and used to raise Ethereum to bid for a copy of the United States Constitution, auctioned by Sotheby's. The copy is the only copy still owned by private collectors, and the proceeds from the auction go to a charity established by the current owner.
@@ -120,6 +123,87 @@ Movement 2 times out; permanent movement pool bottom, unlimited free return cast
 
 ![截屏2022-12-08 18 13 09](https://user-images.githubusercontent.com/119835316/206420521-6cfecada-76c3-411c-9576-16820f96e420.png)
 
+
+DAO Member Management Award 12%;
+Assessment standard of two lines of performance
+——people quantity
+
+
+![截屏2022-12-08 20 00 17](https://user-images.githubusercontent.com/119835316/206450383-c0c66a11-1704-49ba-b79e-2c729f3978c6.png)
+
+The perpetual motion machine
+
+![截屏2022-12-08 20 49 42](https://user-images.githubusercontent.com/119835316/206450893-cf41cda9-bfe1-4d77-8100-b3381188b01e.png)
+
+
+The web3.0 Free people D AO brings a group of ordinary people through Free people DAO, subverting the traditional organization! Through the communication of Discord, Twitter and other Internet communities, we completed this seemingly magical thing was accomplished quickly and efficiently, and provides users with professional and scientific foundation development suggestions and development plans through professional foundation management mode.
+
+web3.0
+Free People DAO
+Ecological development fund
+Web 3.0 Free  people  Dao Ecological Development Fund
+
+web3.0
+Free People DAO
+Asset Management Fund
+Web 3.0 Free  people  Dao Asset Management Fund
+
+web3.0
+Free People D AO
+Meta-Universe Laboratory
+Web3.0 Free  people Dao Metaverse Lab
+
+web3.0
+Free People D AO
+Charity Donation Fund
+Web 3.0 Free people  Dao Charitable Endowment
+
+
+Back circle ecology
+
+NFT trading market
+
+Free People DAO will build its own NFT trading market, using tokens for NFT trading, with NFT casting function, and users will only have to pay certain tokens to fees directly issued on the chain. At the same time, users can sell transactions in the NFT market and trade the NFT freely, and there will be fees, which will bring passive benefits to the platform.
+
+NFT royalties enjoy net body benefits
+NFT, and the synthesis of the following
+Different poker NFT, interests
+
+
+The Metaverse: The free world
+
+![截屏2022-12-08 20 59 47](https://user-images.githubusercontent.com/119835316/206453653-715cf0b3-1eab-485c-8ea6-af99dbd5d0a7.png)
+
+
+![截屏2022-12-08 21 05 51](https://user-images.githubusercontent.com/119835316/206458244-b1dd5c1d-842f-4a7e-b561-f26a98de308e.png)
+
+
+DAO opens NFT coins at 100,000 coin addresses. The NFT card surface size determines the coin benefit
+
+Metaverse Circulation Points Pass
+
+no pre-mining；100% NFT minted
+
+![截屏2022-12-08 21 05 57](https://user-images.githubusercontent.com/119835316/206458326-44d2ca3e-da34-4465-9644-3cb053d2f100.png)
+
+
+WEB 3.0 Public Chain Infrastructure
+
+true DAO
+
+User proof mechanism
+
+Development Planning
+
+A、DAPP goes online and opens up PEOPLE contributions
+
+B、Turn on the poker NFT synthesis
+
+C、Launch your own NFT trading market
+
+D、DAO-NFT Coins to Open
+
+E、Free World (Free City, Consumer Finance, Shopping Mall,)
 
 
 
