@@ -11,6 +11,7 @@ An initial crowdfunding target of $20 million to issue PEOPLE tokens to donors i
 
 DAO
 
+
 A new way of human organization
 
 
@@ -62,6 +63,11 @@ Under the current trend of Web 3.0, the "decentralized governance organization" 
 
 Free people DAO as a Web 3.0 era of new DAO model community, will break from the community concept, adopt flexible vote the raise way, establish the periodic DAO consensus goal, and mobilize the whole Free people DAO efforts, driven by the common goal, complete every consensus goal, create a free, republic, win-win new era of DAO.
 
+superiority
+Free People DAO
+Advantages
+
+The world's first D AO leader
 
 
 
