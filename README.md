@@ -32,7 +32,7 @@ Circulation market value $124,530,303；
 
 flow rate 74.51%；
 
-Binance & OK to hold the same for the other time 67.33%；
+At present, it has been launched on more than 30 exchanges around the world，Binance & OK to hold the same for the other time 67.33%；
 
 
 Blockchain merges with Web3.0
