@@ -32,7 +32,7 @@ Circulation market value $124,530,303；
 
 flow rate 74.51%；
 
-At present, it has been launched on more than 30 exchanges around the world，Binance & OK to hold the same for the other time 67.33%；
+At present, it has been launched on more than 40 exchanges around the world，Binance & OK to hold the same for the other time 67.33%；
 
 
 Blockchain merges with Web3.0
@@ -88,14 +88,30 @@ Part of NFT poker display
 
 NFT poker play
 How to get
-Contribution of 1000people, unlimited contribution, from a multiple of 1000people (rebuild gives accumulated fragments)
+Contribution of 1000$PEOPLE, unlimited contribution, from a multiple of 1000$PEOPLE (rebuild gives accumulated fragments)
 
-![截屏2022-12-08 18 00 37](https://user-images.githubusercontent.com/119835316/206418025-9ef3654e-63aa-4dac-99f8-bed50bd4e91e.png)
+$PEOPLE quantity of input 1000, Get the NFT poker fragments 1  ,Based on this calculation， if $PEOPLE quantity of
+ input 10000, Get the NFT poker fragments 10 
+
 
 
 NFT poker synthesis
 According to the number of fragments, the synthesized NFT cards are not the same
-![截屏2022-12-08 18 04 32](https://user-images.githubusercontent.com/119835316/206418796-6b4744b0-d5d0-4450-82dc-b326efdf62fb.png)
+10 fragments (can be randomly synthesized into black and red plum blossom blocks
+3, 4, 5）
+
+50 fragments (can be randomly synthesized into black and red plum blossom blocks
+6, 7, 8)
+
+100 fragments (can be randomly synthesized into black and red plum blossom blocks
+9, 10, J)
+
+300 fragments (can be randomly synthesized into black and red plum blossom blocks
+Q, K, A)
+
+500 fragments (can be randomly synthesized into black and red plum blossom blocks
+2, Big and small king, )
+
 
 NFT rights and interests
 
@@ -110,18 +126,29 @@ Gold Poker Card Set
 
 A collection of NFT cards 54 (different) can synthesize a gold card set (a set of physical gold cards and a NFT card), limited to 10.
 
-rights and interests
+Rights and interests
+Enter
+DAO Governance Foundation
 
-![截屏2022-12-08 18 08 35](https://user-images.githubusercontent.com/119835316/206419489-3741f35c-ba31-4177-9efc-1a09fefbb7c7.png)
+Enjoy top-level computing power minting rights
+
+Possesses the rights and interests of the lord of the free city
+(City of Open Entertainment Freedom)
 
 
 The perpetual motion machine
-DAO member free order: from 1000 PEOPLE multiple times, 100% pure chain, fully allocated, open and transparent
+DAO member free order: from 1000 $PEOPLE multiple times, 100% pure chain, fully allocated, open and transparent
 Always move
 machine-processed
 Movement 2 times out; permanent movement pool bottom, unlimited free return cast, no burns.
 
-![截屏2022-12-08 18 13 09](https://user-images.githubusercontent.com/119835316/206420521-6cfecada-76c3-411c-9576-16820f96e420.png)
+DAO member dynamics:
+
+Direct referral income 25%
+Indirect referral income 10%
+
+DAO member team rewards: 
+3 valid addresses need to be directly promoted, and enjoy 50% of the referral income of subordinates.
 
 
 DAO Member Management Award 12%;
@@ -129,14 +156,49 @@ Assessment standard of two lines of performance
 ——people quantity
 
 
-![截屏2022-12-08 20 00 17](https://user-images.githubusercontent.com/119835316/206450383-c0c66a11-1704-49ba-b79e-2c729f3978c6.png)
+Perpetual compensation pool: 2%,
+
+No funds entered for 24 hours,
+
+Compensation awards for the last 100
+Last 1: 50% bonus
+Last 2-100: remaining 50% reward
 
 The perpetual motion machine
 
-![截屏2022-12-08 20 49 42](https://user-images.githubusercontent.com/119835316/206450893-cf41cda9-bfe1-4d77-8100-b3381188b01e.png)
+
+6%: permanent incentive pool (daily cycle 50%)
+
+25% Big Order Rank (1-4)
+1(40%) / 2(30%) / 3(20%) / 4(10%)
+
+25% invite referral rank (1-10)
+1(40%) / 2-4(30%) / 5-10(30%)
+
+12%DAO Member Management Award
+Two-line performance appraisal
+
+Rating - Reward Ratio - Performance
+
+D1 - 5% - Two District Performance Benchmarks50000 $PEOPLE
+
+D2 - 3% - Two District Performance Benchmarks200000$PEOPLE
+
+D3 - 2% - Two District Performance Benchmarks1000000$PEOPLE
+
+D4 - 2% - Two District Performance Benchmarks5000000$PEOPLE
+
+The perpetual motion machine
+
+25% Static network-wide weighted distribution；
+3%  WEB3 Foundation (DAO Governance Foundation)
+5%  DAO Alliance Governance Committee
+2%  technology
 
 
-The web3.0 Free people D AO brings a group of ordinary people through Free people DAO, subverting the traditional organization! Through the communication of Discord, Twitter and other Internet communities, we completed this seemingly magical thing was accomplished quickly and efficiently, and provides users with professional and scientific foundation development suggestions and development plans through professional foundation management mode.
+
+
+The web3.0 Free people DAO brings a group of ordinary people through Free people DAO, subverting the traditional organization! Through the communication of Discord, Twitter and other Internet communities, we completed this seemingly magical thing was accomplished quickly and efficiently, and provides users with professional and scientific foundation development suggestions and development plans through professional foundation management mode.
 
 web3.0
 Free People DAO
@@ -149,12 +211,12 @@ Asset Management Fund
 Web 3.0 Free  people  Dao Asset Management Fund
 
 web3.0
-Free People D AO
+Free People DAO
 Meta-Universe Laboratory
 Web3.0 Free  people Dao Metaverse Lab
 
 web3.0
-Free People D AO
+Free People DAO
 Charity Donation Fund
 Web 3.0 Free people  Dao Charitable Endowment
 
@@ -170,21 +232,44 @@ NFT, and the synthesis of the following
 Different poker NFT, interests
 
 
+
 The Metaverse: The free world
 
-![截屏2022-12-08 20 59 47](https://user-images.githubusercontent.com/119835316/206453653-715cf0b3-1eab-485c-8ea6-af99dbd5d0a7.png)
+SOCIALFI
+
+Metaverse Social Events and Finance;
+stranger social;
+Anonymous social ecology;
+social finance;
+
+GAMEFI
+
+virtual land transaction;
+NFT business;
+free mall;
+consumer finance;
+
+METAVERSE 
+
+Yuan Universe Finance;
+Metacverse Free Entertainment City;
+Holding an NFT ticket right of way;
+Gold card NFT, governance right;
+
+DAO - NFT Coins
 
 
-![截屏2022-12-08 21 05 51](https://user-images.githubusercontent.com/119835316/206458244-b1dd5c1d-842f-4a7e-b561-f26a98de308e.png)
+DAO opens NFT coins at 100,000 coin addresses.
 
-
-DAO opens NFT coins at 100,000 coin addresses. The NFT card surface size determines the coin benefit
+The NFT card surface size determines the coin benefit
 
 Metaverse Circulation Points Pass
 
 no pre-mining；100% NFT minted
 
-![截屏2022-12-08 21 05 57](https://user-images.githubusercontent.com/119835316/206458326-44d2ca3e-da34-4465-9644-3cb053d2f100.png)
+
+
+Free public chain
 
 
 WEB 3.0 Public Chain Infrastructure
