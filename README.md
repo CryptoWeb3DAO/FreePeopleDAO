@@ -152,7 +152,7 @@ DAO member team rewards:
 
 
 DAO Member Management Award 12%;
-Assessment standard of two lines of performance
+Assessment standard of two districts of performance
 ——people quantity
 
 
