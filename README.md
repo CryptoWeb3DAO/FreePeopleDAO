@@ -176,7 +176,7 @@ The perpetual motion machine
 1(40%) / 2-4(30%) / 5-10(30%)
 
 12%DAO Member Management Award
-Two-line performance appraisal
+Two District performance appraisal
 
 Rating - Reward Ratio - Performance
 
