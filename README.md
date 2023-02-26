@@ -180,13 +180,13 @@ Two-line performance appraisal
 
 Rating - Reward Ratio - Performance
 
-D1 - 5% - Two District Performance Benchmarks50000 $PEOPLE
+D4 - 5% - Two District Performance Benchmarks50000 $PEOPLE
 
-D2 - 3% - Two District Performance Benchmarks200000$PEOPLE
+D3 - 3% - Two District Performance Benchmarks200000$PEOPLE
 
-D3 - 2% - Two District Performance Benchmarks1000000$PEOPLE
+D2 - 2% - Two District Performance Benchmarks1000000$PEOPLE
 
-D4 - 2% - Two District Performance Benchmarks5000000$PEOPLE
+D1 - 2% - Two District Performance Benchmarks5000000$PEOPLE
 
 The perpetual motion machine
 
