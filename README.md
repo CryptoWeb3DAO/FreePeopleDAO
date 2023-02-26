@@ -153,7 +153,7 @@ DAO member team rewards:
 
 DAO Member Management Award 12%;
 Assessment standard of two districts of performance
-——people quantity
+——$PEOPLE quantity
 
 
 Perpetual compensation pool: 2%,
